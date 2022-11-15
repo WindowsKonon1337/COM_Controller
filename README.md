@@ -1,4 +1,4 @@
-# COM-Controller-v2
+# COM_Controller
 ____
 Desktop приложение для управления платой STM32 discovery через COM порт
 ## Интересные функции + план реализации
